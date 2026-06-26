@@ -1,0 +1,18 @@
+{
+  "name": "SkillFlix — Learn & Remember Everything",
+  "short_name": "SkillFlix",
+  "description": "The skill memorization app that uses spaced repetition, gamification, and AI to make learning stick.",
+  "start_url": "/skillflix/",
+  "display": "standalone",
+  "background_color": "#0a0a12",
+  "theme_color": "#ffe44d",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/skillflix/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["education", "productivity"]
+}
